@@ -1,0 +1,2 @@
+This App Was built while taking a course from Jonas Schmedtmann mainly for the sole purpose of learning.
+I have further improved it's responsiveness and learnt certain fundamentals while building this.
