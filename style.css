@@ -202,6 +202,9 @@ body {
 /***** LISTS *****/
 
 .container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 1000px;
     margin: 60px auto;
 }
@@ -224,7 +227,7 @@ h2 {
     margin-bottom: 15px;
 }
 
-.icome__title {
+.income__title {
     color: #28B9B5;
 }
 
